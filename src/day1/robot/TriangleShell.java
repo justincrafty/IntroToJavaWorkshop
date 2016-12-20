@@ -9,7 +9,7 @@ public class TriangleShell {
 
 	void go() {
 		// 3. delete this line (used only for testing)
-
+bob.changeRobot(imgres.jpg);
 		// 6. Make the robot go as fast as possible
 		bob.setSpeed(100);
 		// 4. make a variable to hold the length of the triangle and set it to
